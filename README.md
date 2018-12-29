@@ -20,7 +20,7 @@ Once you have extracted all the files, you can now access the Loss Data Analytic
 * You will see a "Chapters" folder. Open the chapter which you wish to translate. 
 
 ## Google Translate
-* Copy the parts which you wish to translate. We suggest copying the text paragraph by paragraph.
+* Copy the parts which you wish to translate. We suggest copying the text paragraph by paragraph from the Rmd files in the "Chapters" folder. This ensures that the translations preserve in-text code, section references and citations.
 * Paste the copied text into Google Translate [here](https://translate.google.com/).
 * Copy the translation and replace the English text.
 
