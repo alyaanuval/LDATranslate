@@ -1,9 +1,9 @@
-# Translating Loss Data Analytics`
+# Translating Loss Data Analytics
 
 *Chapter Preview.* We understand that users may prefer reading the Loss Data Analytics book in their native language. This chapter explains how the user can translate text within the book to suit this preference.
 
 ## Example Translation
-Before getting into how you can translate the book, you may refer here for an example. In this example, we translate the section **Relevance of Analytics** under **Chapter 1: Introduction to Loss Data Analytics** from English to Malay.
+Before getting into how you can translate the book, you may refer here for an example. In this example, we translate the section [**Relevance of Analytics**](https://alyaanuval.github.io/LDATranslate/C-Intro.html#S:Intro) under **Chapter 1: Introduction to Loss Data Analytics** from English to Malay.
 
 ## Loss Data Analytics on GitHub
 Start by downloading the Loss Data Analytics project stored on GitHub. To do this:
